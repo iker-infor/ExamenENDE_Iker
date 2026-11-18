@@ -1,1 +1,10 @@
-Puclic class Libro{ String titulo; String autor; 
+Puclic class Libro{ String titulo; String autor; String iSBN; Boolean prestado)
+{
+super();
+this.titulo = titulo;
+this.autor = autor;
+ISBN = iSBN;
+this.prestado = prestado;
+
+
+}
